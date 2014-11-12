@@ -1,11 +1,11 @@
 # Ignore everything
 *
 !.gitignore
+!*/
 
 # IPython startup
 !.ipython/profile_default/*.py
 !.ipython/profile_default/startup/*.py
-!.ipython
 
 # Spyder
 !.spyder2-py3/spyder.ini
